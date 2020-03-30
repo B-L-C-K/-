@@ -1,0 +1,1 @@
+[![Board Status](https://eszett.visualstudio.com/01047146-5755-4f1f-8e47-8b68685dedd5/aa07c213-e9c7-4828-9d48-4151accc7a72/_apis/work/boardbadge/55c1abca-1605-4fa2-9e4f-c054f6a1d1bd)](https://eszett.visualstudio.com/01047146-5755-4f1f-8e47-8b68685dedd5/_boards/board/t/aa07c213-e9c7-4828-9d48-4151accc7a72/Microsoft.RequirementCategory)
